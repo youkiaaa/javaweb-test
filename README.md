@@ -1,3 +1,7 @@
-# javaweb-test
-javaweb练习用
-查看dev分支里的文件
+## javaweb练习项目
+
+    使用jsp、servlet实现的一个简陋的购物项目 
+
+    页面包括登录、查询和添加物品至购物车、查看购物车
+
+    使用Map和session存放购物车物品，实现查看购物车并能够计算总价
