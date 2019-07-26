@@ -1,0 +1,40 @@
+# Composer files
+composer.phar
+vendor/
+
+# Local configs
+config/autoload/*.local.php
+
+# Binary gettext files
+*.mo
+
+# Data
+data/logs/
+data/cache/
+data/sessions/
+data/tmp/
+temp/
+
+#Doctrine 2
+data/DoctrineORMModule/Proxy/
+data/DoctrineORMModule/cache/
+
+# Legacy ZF1
+demos/
+extras/documentation
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# java:
+*.class
+.idea
+lib
+target
+out 
+
+# My configurations:
+db.ini
+deploy_key_rsa
